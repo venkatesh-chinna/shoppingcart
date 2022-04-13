@@ -1,3 +1,3 @@
 FROM tomcat 
-COPY . /usr/local/tomcat/
+COPY . /usr/local/tomcat/webapps/
 
