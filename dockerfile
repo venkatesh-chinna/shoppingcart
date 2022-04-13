@@ -1,3 +1,3 @@
-FROM TOMCAT
+FROM tomcat 
 COPY . /usr/local/tomcat/
 
